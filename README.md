@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**h-gerami/h-gerami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Hossein Gerami**, a Mobile App Developer
 
-Here are some ideas to get you started:
+## 🚀 What I Do
+- 📱 Building React Native & Expo apps
+- 🎓 Teaching React/React Native
+- 💻 TypeScript enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- React Native
+- Expo
+- TypeScript
+- JavaScript
+
+## 📱 Recent Projects
+- Portfolio apps
+- Mobile games (Tic-Tac-Toe with AI)
+- Weather & Currency apps
+- GIF search app
+
+---
+*"Building mobile experiences that matter"*
